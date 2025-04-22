@@ -1,10 +1,10 @@
-### Привет! 👋 Я Сергей.
+### Привет! 👋 Я Сергей, Frontend Developer.
 
 - 🔭 Сейчас работаю над: xos https://github.com/drozdi/xos.ui.
 - 🌱 Изучаю: Html, css, js, php, sql, vue, react, tailwind.
 
 **Технологии, которые я использую:**  
-- **Frontend:** React, Redux, Vue.js.  
+- **Frontend:** React, Redux, Zustand, Vue.js.  
 - **Стили:** CSS/Sass, Tailwind, Styled Components.  
 - **Инструменты:** Webpack, Git, Docker, Vite.
 
@@ -20,3 +20,7 @@
 
 **Курсы:**  
 - «Junior Fronted» (Result University, 2025).  
+
+### 📊 Статистика GitHub  
+![Ivanov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drozdi&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drozdi&layout=compact&theme=dark)  
