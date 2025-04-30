@@ -1,13 +1,12 @@
 ### Привет! 👋 Я Сергей, Frontend Developer.
 
-- 🔭 Сейчас работаю над: xos https://github.com/drozdi/xos.ui.
-- 🌱 Изучаю: Html, css, js, php, sql, vue, react, tailwind.
-
 **Опыт:**
 - sd67.h1n.ru - учет пк, реализован с Symfony, Doctrine, Bootstrap
 - sh67.h1n.ru - календарь с заданиями, реализован с VueJs, Symfony, Doctrine
 - https://github.com/drozdi/income-expenditure - пэт проект учета финансов, React, Redux Toolkit, Material UI, NodeJs, Express, MongoDB, Mongoose
-
+- 🔭 Сейчас работаю над: xos https://github.com/drozdi/xos.ui.
+- 🌱 Изучаю: Html, css, js, php, sql, vue, react, tailwind, TypeScript.
+- 
 **Технологии, которые использую:**  
 - **Frontend:** React, Redux, Zustand, Vue.js.  
 - **Стили:** CSS/Sass, Tailwind, Styled Components.  
