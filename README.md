@@ -4,7 +4,7 @@
 - sd67.h1n.ru - учет пк, реализован с Symfony, Doctrine, js, css, Bootstrap
 - sh67.h1n.ru - календарь с заданиями, реализован с js, css, VueJs, Symfony, Doctrine
 - https://github.com/drozdi/income-expenditure - пэт проект учета финансов, React, Redux Toolkit, Material UI, NodeJs, Express, MongoDB, Mongoose
-- 🔭 Сейчас работаю над: xos https://github.com/drozdi/xos.ui.
+- 🔭 Сейчас работаю над xos свой проект с возможностью подключения отдельных приложений, дольше изучение js, react, zustand: https://github.com/drozdi/xos.ui.
 - 🌱 Изучаю: Html, css, js, php, sql, vue, react, tailwind, TypeScript.
 - 
 **Технологии, которые использую:**  
